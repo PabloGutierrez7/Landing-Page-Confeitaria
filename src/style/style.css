@@ -5,6 +5,16 @@
 @import url('testimonials.css');
 @import url('footer.css');
 
+/*
+cores 
+#260101
+#F257BC
+#F26DAB
+#F2A7B5
+#F2BBBF
+
+*/
+
 *{
  font-family: "Poppins", sans-serif;
  margin: 0;
@@ -18,7 +28,7 @@ html{
 }
 
 body{
-    background-color: #fff9ea;
+    background-color: #E1DFF2;
 }
 section{
     padding: 28px 8%;
@@ -29,7 +39,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:  rgb(250, 138, 10);
+    background-color:  #F24141;
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -66,7 +76,7 @@ section{
 }
 
 .section-title{
-    color: rgb(250, 138, 10);
+    color: #F24141;
     font-size: 1.563rem ;
     
 }
