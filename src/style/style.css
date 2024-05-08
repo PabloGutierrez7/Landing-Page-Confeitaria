@@ -48,7 +48,7 @@ section{
     transition: background-color .3s ease;
 }
 .btn-default:hover{
-    background-color:  rgb(238, 100, 66);
+    background-color: #ffe924;
 }
 
 .social-media-buttons{
@@ -71,7 +71,7 @@ section{
 }
 
 .social-media-buttons a:hover{
-    background-color: rgb(250, 138, 10);
+    background-color: #F24141;
     color: #fff;
 }
 
