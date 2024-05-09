@@ -75,7 +75,11 @@
         text-align: center;
         align-items: center;
     }
+
+    #cta .title{
+        font-size: 3.3rem;
+        color: #1d1d1d;
         
     }
 
-
+}
