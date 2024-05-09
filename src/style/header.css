@@ -54,6 +54,7 @@ header{
         background-color: transparent;
         font-size: 1.5rem;
         cursor: pointer;
+        color: #F24141;
     }
 
     #mobile_menu.active{
